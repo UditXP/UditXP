@@ -1,16 +1,18 @@
-# 👋 Hey, I'm Udit Patidar
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey, I'm Udit Patidar
 
-### 🚀 Game Developer | AI Developer | Programmer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=650&lines=Game+Developer+%F0%9F%8E%AE;AI+Developer+%F0%9F%A4%96;Building+ZypeCode+%E2%9A%A1;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 
-I'm a developer from **India 🇮🇳**, passionate about building games, AI-powered tools, and modern software products.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:09001f,50:5522aa,100:00d4ff&text=UDIT%20PATIDAR&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=55&desc=GAME%20DEV%20%7C%20AI%20DEV&descAlignY=75" width="100%" />
+</p>
 
-I love turning ideas into real-world projects and exploring new technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UditXP&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/UditXP?label=FOLLOWERS&style=for-the-badge&color=06b6d4" />
+</p>
 
----
+👨‍💻 About Me
 
-### 🧑‍💻 About Me
-
-```yaml
 sarthak.config:
   name: "Udit Patidar"
   handle: "@UditXP"
@@ -21,7 +23,7 @@ sarthak.config:
     - AI Developer
 
   building:
-    - ZypeCode # AI coding assistant for the terminal
+    - ZypeCode
     - AI SaaS Products
 
   learning:
@@ -30,59 +32,57 @@ sarthak.config:
     - Cloud Infrastructure
 
   status: "shipping 🚀"
-```
 
----
+⚡ Tech Stack
 
-### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,git,github,vscode&theme=dark" />
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- C++
-- Python
+🚀 Featured Projects
 
-### 🛠️ Tools & Platforms
+<table>
+<tr>
+<td width="50%">
+<h3>⚡ ZypeCode</h3>
+AI-powered coding assistant for the terminal.
+<br/><br/>
+<b>Status:</b> Building
+</td>
+<td width="50%">
+<h3>🤖 AI SaaS</h3>
+Developing modern AI-powered software products.
+<br/><br/>
+<b>Status:</b> In Progress
+</td>
+</tr>
+</table>
 
-- Git
-- GitHub
-- Visual Studio Code
+📊 GitHub Statistics
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UditXP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00D4FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UditXP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
-### 🚀 Current Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UditXP&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
+</p>
 
-**ZypeCode**
-> An AI-powered coding assistant designed for the terminal.
+🧊 3D Contribution Graph
 
-**AI SaaS Products**
-> Building modern AI-powered applications and tools.
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
 
----
+🌌 Developer Mindset
 
-### 📚 Currently Learning
+Code. Create. Experiment. Build. Repeat.
 
-- System Design
-- AI Agents
-- Cloud Infrastructure
-- Advanced Game Development
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5522aa,100:00d4ff&height=120&section=footer&animation=fadeIn" width="100%" />
+</p>
 
----
-
-### 🎯 My Developer Goals
-
-- Build professional games.
-- Create powerful AI tools.
-- Develop useful SaaS products.
-- Contribute to open-source projects.
-- Keep learning and shipping.
-
----
-
-### 📫 Connect With Me
-
-- GitHub: [@UditXP](https://github.com/UditXP)
-
----
-
-⭐ *Building, Learning & Shipping — One Project at a Time.*
+<p align="center">
+  <b>Made with ❤️ by Udit Patidar | @UditXP</b>
+</p>
