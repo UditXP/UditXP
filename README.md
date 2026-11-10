@@ -11,27 +11,6 @@
   <img src="https://img.shields.io/github/followers/UditXP?label=FOLLOWERS&style=for-the-badge&color=06b6d4" />
 </p>
 
-👨‍💻 About Me
-
-sarthak.config:
-  name: "Udit Patidar"
-  handle: "@UditXP"
-  based_in: "India 🇮🇳"
-
-  role:
-    - Game Developer
-    - AI Developer
-
-  building:
-    - ZypeCode
-    - AI SaaS Products
-
-  learning:
-    - System Design
-    - AI Agents
-    - Cloud Infrastructure
-
-  status: "shipping 🚀"
 
 ⚡ Tech Stack
 
