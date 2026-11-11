@@ -87,9 +87,6 @@ Developing modern AI-powered software products.
 
 ## 📊 GitHub Statistics
 
-
-## 📊 GitHub Statistics
-
 <p align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=UditXP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00D4FF" />
 
