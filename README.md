@@ -1,11 +1,11 @@
+ <!-- ================================================= -->
+<!-- UDIT PATIDAR | GITHUB PROFILE README -->
+<!-- ================================================= -->
 
-<!-- ===== UDIT XP | PREMIUM PROFILE HEADER ===== -->
+<!-- ================ HERO HEADER ================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:321078,65:632BCE,100:00D4FF&height=260&section=header&text=UDIT%20PATIDAR&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=GAME%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=19&descAlignY=58&descColor=E0D7FF"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:321078,65:632BCE,100:00D4FF&height=260&section=header&text=UDIT%20PATIDAR&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=GAME%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=19&descAlignY=58&descColor=E0D7FF" width="100%" />
 </p>
 
 <p align="center">
@@ -13,17 +13,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UditXP&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/UditXP?style=for-the-badge&color=0891B2&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=UditXP&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/UditXP?style=for-the-badge&color=0891B2&label=FOLLOWERS" />
 </p>
 
 <p align="center">
   <b>⚡ CODE • CREATE • INNOVATE • REPEAT ⚡</b>
 </p>
 
-<!-- ======================================== -->
+---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- ================= ABOUT ME ================== -->
+
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=9D7BFF&center=true&vCenter=true&width=600&height=50&lines=Hey%2C+I'm+Udit+Patidar+%F0%9F%91%8B;Aspiring+Game+Developer+%F0%9F%8E%AE;AI+Enthusiast+%F0%9F%A4%96;Building+ZypeCode+%E2%9A%A1;Creating+Something+Awesome+%F0%9F%9A%80" />
@@ -42,11 +44,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Game_Development-9D7BFF?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Enthusiast-00D4FF?style=for-the-badge&logo=robot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GAME_DEVELOPMENT-9D7BFF?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_ENTHUSIAST-00D4FF?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
-## ⚡ Programming Languages
+---
+
+<!-- ============ PROGRAMMING LANGUAGES ============ -->
+
+<h2 align="center">⚡ PROGRAMMING LANGUAGES</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=dark" />
@@ -54,7 +60,9 @@
 
 ---
 
-## 🛠️ Tools & Platforms
+<!-- ============== TOOLS & PLATFORMS ============== -->
+
+<h2 align="center">🛠️ TOOLS & PLATFORMS</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,unreal&theme=dark" />
@@ -62,26 +70,24 @@
 
 ---
 
+<!-- ================= PROJECTS =================== -->
 
-<!-- ================================= -->
-<!-- FEATURED PROJECTS -->
-<!-- ================================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <p align="center">
-  <i>Things I'm building, creating and experimenting with.</i>
+  <i>Building ideas into reality, one project at a time.</i>
 </p>
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">⚡ ZypeCode</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-9D7BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CLI-Tool-00D4FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-POWERED-9D7BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLI-TOOL-00D4FF?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -89,11 +95,11 @@
 </p>
 
 <p align="center">
-  <b>🚧 Status: Building</b>
+  <b>🚧 STATUS: BUILDING</b>
 </p>
 
 <p align="center">
-  <b>⚡ Focus:</b> AI & Terminal Development
+  <sub>Focus: AI & Terminal Development</sub>
 </p>
 
 </td>
@@ -103,8 +109,8 @@
 <h3 align="center">🤖 AI SaaS</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-9D7BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SaaS-00D4FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-9D7BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAAS-00D4FF?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -112,37 +118,42 @@
 </p>
 
 <p align="center">
-  <b>🔄 Status: In Progress</b>
+  <b>🔄 STATUS: IN PROGRESS</b>
 </p>
 
 <p align="center">
-  <b>⚡ Focus:</b> AI & Software Development
+  <sub>Focus: AI & Software Development</sub>
 </p>
 
 </td>
+
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;One+Project+At+A+Time+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=35&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;One+Project+At+A+Time+%E2%9A%A1" />
 </p>
 
-## 📊 GitHub Statistics
+---
+
+<!-- ============ GITHUB STATISTICS ================ -->
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=UditXP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00D4FF" />
-
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=UditXP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=UditXP&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=UditXP&theme=tokyonight&hide_border=true&background=0D1117" width="75%" />
 </p>
-
 
 ---
 
-## 🧊 3D Contribution Graph
+<!-- ============ 3D CONTRIBUTION GRAPH ============ -->
+
+<h2 align="center">🧊 3D CONTRIBUTION GRAPH</h2>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph" />
@@ -154,16 +165,28 @@
 
 ---
 
-<!-- ================================= -->
-<!-- 3D ANIMATED THANK YOU FOOTER -->
-<!-- ================================= -->
+<!-- ============== DEVELOPER MINDSET ============== -->
+
+<h2 align="center">🌌 DEVELOPER MINDSET</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=9D7BFF&center=true&vCenter=true&width=600&height=45&lines=Think+Big+%F0%9F%92%AD;Learn+Every+Day+%F0%9F%93%9A;Build+The+Future+%F0%9F%9A%80;Never+Stop+Creating+%E2%9A%A1" />
+</p>
+
+<p align="center">
+  <b>CODE • CREATE • EXPERIMENT • BUILD • REPEAT</b>
+</p>
+
+---
+
+<!-- ============== THANK YOU FOOTER =============== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09001f,50:5522aa,100:00d4ff&text=THANK%20YOU!&fontColor=ffffff&fontSize=65&animation=twinkling&fontAlignY=40&desc=THANKS%20FOR%20VISITING%20MY%20PROFILE&descAlignY=65&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%E2%9A%A1;Keep+Creating+%F0%9F%8E%AE;See+You+Next+Time!+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%E2%9A%A1;Keep+Creating+%F0%9F%8E%AE;See+You+Next+Time!+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
@@ -173,12 +196,12 @@
 
 <p align="center">
   <b>© Udit Patidar | @UditXP</b>
-</p>
-
-<p align="center">
+  <br/>
   <i>Code. Create. Innovate. Repeat.</i>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5522aa,100:00d4ff&height=100&section=footer" width="100%" />
 </p>
+
+<!-- ================ END README =================== -->
