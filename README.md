@@ -56,37 +56,9 @@ Developing modern AI-powered software products.
 🧊 3D Contribution Graph
 
 
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *" 
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-
-    steps:
-      - uses: actions/checkout@v5
-
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit & Push
-        run: |
-          git config user.name Dowon-Kang
-          git config user.email kd1412@hs.ac.kr
-          git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
 
 🌌 Developer Mindset
 
