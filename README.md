@@ -25,30 +25,15 @@
 
 <!-- ================= ABOUT ME ================== -->
 
+
+<!-- ABOUT ME HEADER -->
+
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=9D7BFF&center=true&vCenter=true&width=600&height=50&lines=Hey%2C+I'm+Udit+Patidar+%F0%9F%91%8B;Aspiring+Game+Developer+%F0%9F%8E%AE;AI+Enthusiast+%F0%9F%A4%96;Building+ZypeCode+%E2%9A%A1;Creating+Something+Awesome+%F0%9F%9A%80" />
+  <b>⚡ CODE • CREATE • INNOVATE • REPEAT ⚡</b>
 </p>
 
-<p align="center">
-  🇮🇳 Based in India
-  <br/>
-  🎮 Aspiring Game Developer
-  <br/>
-  🤖 Interested in Artificial Intelligence
-  <br/>
-  ⚡ Building <b>ZypeCode</b>
-  <br/>
-  🚀 Love creating innovative projects
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GAME_DEVELOPMENT-9D7BFF?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_ENTHUSIAST-00D4FF?style=for-the-badge&logo=probot&logoColor=white" />
-</p>
-
----
 
 <!-- ============ PROGRAMMING LANGUAGES ============ -->
 
