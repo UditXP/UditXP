@@ -17,8 +17,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
 
 <!-- ABOUT ME - ANIMATED SECTION -->
 
