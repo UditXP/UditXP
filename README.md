@@ -44,13 +44,13 @@ Developing modern AI-powered software products.
 
 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UditXP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00D4FF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UditXP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=UditXP&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=UditXP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00D4FF" />
+
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=UditXP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF" />
 </p>
 
 🧊 3D Contribution Graph
