@@ -11,11 +11,16 @@
   <img src="https://img.shields.io/github/followers/UditXP?label=FOLLOWERS&style=for-the-badge&color=06b6d4" />
 </p>
 
-
-⚡ Tech Stack
+⚡ Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=dark" />
+</p>
+
+🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unreal&theme=dark" />
 </p>
 
 🚀 Featured Projects
