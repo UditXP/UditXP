@@ -61,29 +61,70 @@
 
 ## 🚀 Featured Projects
 
-<table>
+
+<!-- ================================= -->
+<!-- FEATURED PROJECTS -->
+<!-- ================================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <i>Things I'm building, creating and experimenting with.</i>
+</p>
+
+<table width="100%">
 <tr>
-<td width="50%">
-<h3>⚡ ZypeCode</h3>
-AI-powered coding assistant for the terminal.
+<td width="50%" valign="top">
 
-<br/><br/>
+<h3 align="center">⚡ ZypeCode</h3>
 
-<b>Status:</b> Building
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-9D7BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CLI-Tool-00D4FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  An AI-powered coding assistant designed to make terminal-based development smarter and easier.
+</p>
+
+<p align="center">
+  <b>🚧 Status: Building</b>
+</p>
+
+<p align="center">
+  <b>⚡ Focus:</b> AI & Terminal Development
+</p>
+
 </td>
 
-<td width="50%">
-<h3>🤖 AI SaaS</h3>
-Developing modern AI-powered software products.
+<td width="50%" valign="top">
 
-<br/><br/>
+<h3 align="center">🤖 AI SaaS</h3>
 
-<b>Status:</b> In Progress
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-9D7BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SaaS-00D4FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  Developing modern AI-powered software products with a focus on innovation and user experience.
+</p>
+
+<p align="center">
+  <b>🔄 Status: In Progress</b>
+</p>
+
+<p align="center">
+  <b>⚡ Focus:</b> AI & Software Development
+</p>
+
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;One+Project+At+A+Time+%E2%9A%A1" />
+</p>
 
 ## 📊 GitHub Statistics
 
