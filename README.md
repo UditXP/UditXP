@@ -1,26 +1,28 @@
 
-<!-- ================================= -->
-<!-- FUTURISTIC 3D PROFILE HEADER -->
-<!-- ================================= -->
+<!-- ===== UDIT XP | PREMIUM PROFILE HEADER ===== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:09001F,45:301078,100:00D4FF&text=UDIT%20PATIDAR&fontColor=FFFFFF&fontSize=65&fontAlignY=42&animation=twinkling&desc=GAME%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=65" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:321078,65:632BCE,100:00D4FF&height=260&section=header&text=UDIT%20PATIDAR&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=GAME%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=19&descAlignY=58&descColor=E0D7FF"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+ZypeCode+%E2%9A%A1;Game+Development+%F0%9F%8E%AE;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=55&lines=Building+ZypeCode+%E2%9A%A1;Creating+Games+%F0%9F%8E%AE;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UditXP&label=PROFILE+VIEWS&color=9D7BFF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/UditXP?label=FOLLOWERS&color=00D4FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=UditXP&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/UditXP?style=for-the-badge&color=0891B2&label=FOLLOWERS"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:9D7BFF,100:00D4FF" width="85%" />
+  <b>⚡ CODE • CREATE • INNOVATE • REPEAT ⚡</b>
 </p>
 
-<!-- ABOUT ME - ANIMATED SECTION -->
+<!-- ======================================== -->
+
 
 <h2 align="center">👨‍💻 About Me</h2>
 
