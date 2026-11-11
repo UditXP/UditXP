@@ -59,8 +59,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
 
 <!-- ================================= -->
 <!-- FEATURED PROJECTS -->
