@@ -1,22 +1,24 @@
- <!-- ================================= -->
-<!-- UDIT PATIDAR - GITHUB PROFILE -->
+
+<!-- ================================= -->
+<!-- FUTURISTIC 3D PROFILE HEADER -->
 <!-- ================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:09001f,50:5522aa,100:00d4ff&text=UDIT%20PATIDAR&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=45&desc=GAME%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=70&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:09001F,45:301078,100:00D4FF&text=UDIT%20PATIDAR&fontColor=FFFFFF&fontSize=65&fontAlignY=42&animation=twinkling&desc=GAME%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Game+Developer+%F0%9F%8E%AE;AI+Developer+%F0%9F%A4%96;Building+ZypeCode+%E2%9A%A1;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+ZypeCode+%E2%9A%A1;Game+Development+%F0%9F%8E%AE;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UditXP&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/UditXP?label=FOLLOWERS&style=for-the-badge&color=06b6d4" />
+  <img src="https://komarev.com/ghpvc/?username=UditXP&label=PROFILE+VIEWS&color=9D7BFF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/UditXP?label=FOLLOWERS&color=00D4FF&style=for-the-badge" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:9D7BFF,100:00D4FF" width="85%" />
+</p>
 
 <!-- ABOUT ME - ANIMATED SECTION -->
 
