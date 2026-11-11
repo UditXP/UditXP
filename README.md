@@ -1,4 +1,8 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey, I'm Udit Patidar
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:09001f,50:5522aa,100:00d4ff&text=HEY,%20I'M%20UDIT%20PATIDAR&fontColor=ffffff&fontSize=38&animation=twinkling&fontAlignY=55" width="100%" />
+</p>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=650&lines=Game+Developer+%F0%9F%8E%AE;AI+Developer+%F0%9F%A4%96;Building+ZypeCode+%E2%9A%A1;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 
