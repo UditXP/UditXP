@@ -190,3 +190,125 @@
 </p>
 
 <!-- ================ END README =================== -->
+<!-- ======================================== -->
+<!-- UDIT XP | PREMIUM ANIMATED FOOTER -->
+<!-- ======================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,35:321078,70:632BCE,100:00D4FF&height=230&section=footer&text=THANK%20YOU!&fontSize=65&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn&desc=THANKS%20FOR%20VISITING%20MY%20PROFILE&descSize=17&descAlignY=75&descColor=E0D7FF" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%E2%9A%A1;Keep+Creating+%F0%9F%8E%AE;See+You+Next+Time!+%F0%9F%91%8B" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILT_WITH-LOVE-9D7BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOUNDER-ZYPERNODES-00D4FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>© 2026 Udit Patidar | @UditXP</b>
+  <br/>
+  <sub>🎮 Game Developer • 🤖 AI Enthusiast • ⚡ Creator</sub>
+</p>
+
+<p align="center">
+  <i>Code. Create. Innovate. Repeat.</i>
+</p>
+
+
+<!-- ======================================== -->
+<!-- UDIT XP | PREMIUM ANIMATED FOOTER -->
+<!-- ======================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,35:321078,70:632BCE,100:00D4FF&height=230&section=footer&text=THANK%20YOU!&fontSize=65&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn&desc=THANKS%20FOR%20VISITING%20MY%20PROFILE&descSize=17&descAlignY=75&descColor=E0D7FF" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%E2%9A%A1;Keep+Creating+%F0%9F%8E%AE;See+You+Next+Time!+%F0%9F%91%8B" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILT_WITH-LOVE-9D7BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOUNDER-ZYPERNODES-00D4FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>© 2026 Udit Patidar | @UditXP</b>
+  <br/>
+  <sub>🎮 Game Developer • 🤖 AI Enthusiast • ⚡ Creator</sub>
+</p>
+
+<p align="center">
+  <i>Code. Create. Innovate. Repeat.</i>
+</p>
+
+<!-- ======================================== -->
+<!-- END OF PROFILE -->
+<!-- ======================================== -->
+
+<!-- ======================================== -->
+<!-- UDIT XP | PREMIUM ANIMATED FOOTER -->
+<!-- ======================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,35:321078,70:632BCE,100:00D4FF&height=230&section=footer&text=THANK%20YOU!&fontSize=65&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn&desc=THANKS%20FOR%20VISITING%20MY%20PROFILE&descSize=17&descAlignY=75&descColor=E0D7FF" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%E2%9A%A1;Keep+Creating+%F0%9F%8E%AE;See+You+Next+Time!+%F0%9F%91%8B" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILT_WITH-LOVE-9D7BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOUNDER-ZYPERNODES-00D4FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>© 2026 Udit Patidar | @UditXP</b>
+  <br/>
+  <sub>🎮 Game Developer • 🤖 AI Enthusiast • ⚡ Creator</sub>
+</p>
+
+<p align="center">
+  <i>Code. Create. Innovate. Repeat.</i>
+</p>
+
+<!-- ======================================== -->
+<!-- END OF PROFILE -->
+<!-- ======================================== -->
+
+<!-- ======================================== -->
+<!-- UDIT XP | PREMIUM ANIMATED FOOTER -->
+<!-- ======================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,35:321078,70:632BCE,100:00D4FF&height=230&section=footer&text=THANK%20YOU!&fontSize=65&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn&desc=THANKS%20FOR%20VISITING%20MY%20PROFILE&descSize=17&descAlignY=75&descColor=E0D7FF" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%E2%9A%A1;Keep+Creating+%F0%9F%8E%AE;See+You+Next+Time!+%F0%9F%91%8B" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILT_WITH-LOVE-9D7BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOUNDER-ZYPERNODES-00D4FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>© 2026 Udit Patidar | @UditXP</b>
+  <br/>
+  <sub>🎮 Game Developer • 🤖 AI Enthusiast • ⚡ Creator</sub>
+</p>
+
+<p align="center">
+  <i>Code. Create. Innovate. Repeat.</i>
+</p>
+
+<!-- ======================================== -->
+<!-- END OF PROFILE -->
+<!-- ======================================== -->
+
+
