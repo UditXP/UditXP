@@ -97,3 +97,17 @@ Developing modern AI-powered software products.
   <img src="https://streak-stats.demolab.com?user=UditXP&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
 </p>
 
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <i>Every contribution builds something bigger 🚀</i>
+</p>
+
+---
