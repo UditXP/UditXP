@@ -70,26 +70,36 @@
 
 <h3 align="center">⚡ ZypeCode</h3>
 
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎮 Udit Patidar Portfolio</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-POWERED-9D7BFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLI-TOOL-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GAME-DEVELOPER-9D7BFF?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PERSONAL-WEBSITE-00D4FF?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  An AI-powered coding assistant designed to make terminal-based development smarter and easier.
+  My personal Game Developer portfolio showcasing my journey, skills, projects and passion for game development.
 </p>
 
 <p align="center">
-  <b>🚧 STATUS: BUILDING</b>
+  <a href="https://uditpatidar.netlify.app/">
+    <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-9D7BFF?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <sub>Focus: AI & Terminal Development</sub>
+  <b>🌐 STATUS: LIVE</b>
+</p>
+
+<p align="center">
+  <sub>Focus: Game Development & Unreal Engine</sub>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
 
 <h3 align="center">🤖 AI SaaS</h3>
 
