@@ -59,53 +59,14 @@
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<p align="center">
-  <i>Building ideas into reality, one project at a time.</i>
-</p>
-
-<table width="100%">
-<tr>
 
 <td width="50%" valign="top">
-
-<h3 align="center">⚡ ZypeCode</h3>
-
-
-<td width="50%" valign="top">
-
-<h3 align="center">🎮 Udit Patidar Portfolio</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GAME-DEVELOPER-9D7BFF?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PERSONAL-WEBSITE-00D4FF?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  My personal Game Developer portfolio showcasing my journey, skills, projects and passion for game development.
-</p>
-
-<p align="center">
-  <a href="https://uditpatidar.netlify.app/">
-    <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-9D7BFF?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>🌐 STATUS: LIVE</b>
-</p>
-
-<p align="center">
-  <sub>Focus: Game Development & Unreal Engine</sub>
-</p>
-
-</td>
-
 
 <h3 align="center">🤖 AI SaaS</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-9D7BFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SAAS-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-9D7BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAAS-00D4FF?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -122,14 +83,6 @@
 
 </td>
 
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=35&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;One+Project+At+A+Time+%E2%9A%A1" />
-</p>
-
----
 
 <!-- ============ GITHUB STATISTICS ================ -->
 
