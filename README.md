@@ -60,28 +60,84 @@
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 
-<td width="50%" valign="top">
 
-<h3 align="center">🤖 AI SaaS</h3>
+<!-- ======================================== -->
+<!-- FEATURED PROJECTS | UDIT XP -->
+<!-- ======================================== -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-9D7BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAAS-00D4FF?style=for-the-badge"/>
-</p>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <p align="center">
-  Developing modern AI-powered software products with a focus on innovation and user experience.
+  <i>Building ideas into reality, one project at a time.</i>
 </p>
 
-<p align="center">
-  <b>🔄 STATUS: IN PROGRESS</b>
+<table width="100%">
+<tr>
+
+<!-- GAME DEVELOPER PORTFOLIO -->
+<td width="50%" valign="top" align="center">
+
+<h3>🎮 Udit Patidar Portfolio</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/GAME-DEVELOPER-9D7BFF?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
 
-<p align="center">
-  <sub>Focus: AI & Software Development</sub>
+<p>
+  <img src="https://img.shields.io/badge/PERSONAL-WEBSITE-00D4FF?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
+
+<p>
+  My personal Game Developer portfolio showcasing my skills, projects, journey and passion for game development.
+</p>
+
+<p>
+  <a href="https://uditpatidar.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-7C3AED?style=for-the-badge"/>
+  </a>
+</p>
+
+<p><b>🟢 STATUS: LIVE</b></p>
+
+<p><sub>Focus: Game Development & Unreal Engine</sub></p>
 
 </td>
+
+<!-- AI SAAS -->
+<td width="50%" valign="top" align="center">
+
+<h3>🤖 AI SaaS</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-9D7BFF?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SAAS-PRODUCTS-00D4FF?style=for-the-badge"/>
+</p>
+
+<p>
+  Developing modern AI-powered software products with a focus on innovation, automation and user experience.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/IN_PROGRESS-FFA500?style=for-the-badge"/>
+</p>
+
+<p><b>🔄 STATUS: BUILDING</b></p>
+
+<p><sub>Focus: AI & Software Development</sub></p>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=35&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;One+Project+At+A+Time+%E2%9A%A1" />
+</p>
+
+<!-- ======================================== -->
 
 
 <!-- ============ GITHUB STATISTICS ================ -->
