@@ -40,7 +40,7 @@
 <h2 align="center">⚡ PROGRAMMING LANGUAGES</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp&theme=dark" />
 </p>
 
 ---
